@@ -1,6 +1,6 @@
 # 🏥 EKO Hospital – Patient Stay Analysis Dashboard
 
-A Power BI dashboard analysing patient length of stay, hospital cost and laboratory workload at EKO Hospital. Built as a capstone project for the Tech4Africans / TechCrush program.
+A Power BI dashboard analysing patient length of stay, hospital cost and laboratory workload at EKO Hospital. Built as a capstone project for the TechCrush program.
 
 ![Dashboard Preview](final.jpg)
 
